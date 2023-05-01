@@ -1,0 +1,19 @@
+.row {
+    background-color: lightgrey;
+}
+
+.row h3 {
+    background-color: lightsalmon;
+    padding: 10px;
+}
+
+.row .col {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.hidden {
+    visibility: hidden;
+    display: none;
+}
